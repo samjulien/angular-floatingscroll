@@ -1,6 +1,6 @@
 # angular-floatingscroll
 
-This is an Angular 1.x directive wrapper and package for Amphiluke's [floatingscroll](https://github.com/Amphiluke/jquery-plugins/tree/master/src/floatingscroll) jQuery plugin. The plugin isn't currently on npm or bower, so the dependency needs to be managed manually. The current version I've included is from September 26, 2015.
+This is an Angular 1.x directive wrapper and package for Amphiluke's [floatingscroll](https://github.com/Amphiluke/floating-scroll) jQuery plugin.
 
 Note that this uses jQuery proper, not jQLite.
 
